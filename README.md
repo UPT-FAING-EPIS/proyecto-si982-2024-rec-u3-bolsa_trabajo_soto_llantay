@@ -37,3 +37,23 @@ La plataforma contará con un panel administrativo para gestionar usuarios, ofer
 
 ![image](https://github.com/user-attachments/assets/cdac48ff-0daa-486b-ae55-94312f0dd097)
 
+SISTEMA DESPLEGADO
+
+ ![image](https://github.com/user-attachments/assets/c6806308-8ef7-4ad7-a41d-ab8426a61c76)
+
+![image](https://github.com/user-attachments/assets/f54674d9-ceac-4d88-9c22-bba01e03939a)
+
+PARTE DE ADMINISTRADOR
+
+ ![image](https://github.com/user-attachments/assets/457f8e27-e6dc-4a39-a06a-64875c7783af)
+
+![image](https://github.com/user-attachments/assets/2fec6dec-97b8-4531-9960-164d77552b81)
+
+
+VISUAL ASP.NET
+ 
+ ![image](https://github.com/user-attachments/assets/1bcf9894-db61-4a8b-9ef9-6640e9023736)
+
+ ![image](https://github.com/user-attachments/assets/3d738a8e-f5e4-48a1-aebd-398155349cba)
+
+
