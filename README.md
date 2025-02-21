@@ -9,6 +9,12 @@
 | SOTO RODRIGUES Duanet | 2015051384 |
 | LLLANTAY MACHACA Marjiory Grace   | 2020068951 |
 
+Sistema Web Bolsa de Trabajo 
+El Sistema de Bolsa de Trabajo es una plataforma web diseñada para conectar de manera eficiente a usuarios que buscan empleo con empresas que ofertan oportunidades laborales. Este sistema permitirá a los candidatos crear perfiles profesionales, buscar empleos por criterios como ubicación, palabras clave o tipo de puesto, y postularse directamente en la plataforma. Asimismo, ofrecerá a las empresas la capacidad de publicar, gestionar y actualizar sus ofertas de empleo de manera sencilla y rápida.
+
+La plataforma contará con un panel administrativo para gestionar usuarios, ofertas y generar reportes de actividad. Incorporará funcionalidades avanzadas como filtros de búsqueda, subida de archivos (currículums y cartas de presentación), y un diseño responsivo que garantizará una experiencia de usuario óptima en dispositivos móviles, tabletas y computadoras. Además, priorizará la seguridad de los datos y la rapidez en la interacción, asegurando el cumplimiento de normativas de protección como el GDPR y ofreciendo un entorno intuitivo y accesible para todas las partes involucradas.
+
+
 ## DIAGRAMA BASE DE DATOS 
 
 ![image](https://github.com/user-attachments/assets/961d9e97-945e-4d09-ac59-6eac51201d54)
