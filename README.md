@@ -30,7 +30,8 @@ La plataforma contará con un panel administrativo para gestionar usuarios, ofer
 ![image](https://github.com/user-attachments/assets/fc4f5900-b2f5-496c-a6eb-dee6998e909d)
 
 ## DIAGRAMA DE ARQUITECTURA 
-![image](https://github.com/user-attachments/assets/e9a10a52-3397-4a99-bddc-c399717e7e90)
+
+![image](https://github.com/user-attachments/assets/d0125abc-f83d-419a-910e-15f20d348df4)
 
 ## DIAGRAMA DE INFRAESTRUCTURA
 
